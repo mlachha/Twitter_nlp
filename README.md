@@ -14,7 +14,7 @@ This project uses Twitter API v2  with the Tweepy library to request tweet data 
 
 ## implementation
 
-* We start by creating a config.py and storing our access keys and bearer token in variables that we will have access to after importing config if you don't have Twitter API access credentials you can apply for them here : [apply for access](https://developer.twitter.com/en/apply-for-access)
+* We start by creating a config.py and storing our access keys and bearer token in variables that we will have access to after importing config, if you don't have Twitter API access credentials you can apply for them here : [apply for access](https://developer.twitter.com/en/apply-for-access)
 * we import the necessary dependencies.
 
 ![picture](tw_img/0.png)
